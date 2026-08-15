@@ -54,7 +54,7 @@ bool isAngleFound(int arr[], int size, int searchAngle)
 
 int main()
 {
-     cout <<"---------- Robot Servo Angle Array Program --------" << endl;
+   cout <<"---------- Robot Servo Angle Array Program --------" << endl;
    int servoAngles[5];
    cout << "Enter servo angles 1: " << endl;
    cin >> servoAngles[0];
@@ -90,7 +90,7 @@ int main()
    }
 
 }
-
+    
 
 
 
